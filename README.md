@@ -6,9 +6,11 @@
 ## Gambar Browser
 ![Screenshoot](gambar2.png)
 
-#Tutorial Install
+## Tutorial Install
 #### 1.Silakan anda download file micro-baik-lang-master terlebih dahulu.
-https://github.com/anak10thn/micro-baik-lang.git
+###### [anak10thn](https://github.com/anak10thn/micro-baik-lang.git)
+##### Tutorial dan contoh bisa lihat disini.
+###### [baik-lang](https://github.com/baik-lang/baik-lang.git)
 #### 2.Langkah ke 2, Silakan install aplikasi BAIKPlayground APK.
 #### 3.Langkah ke 3, Silakan buka aplikasinya.
 #### 4.Lalu silakan atur path di sebelah menu Play klik dropdown menu.
