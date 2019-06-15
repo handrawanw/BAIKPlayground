@@ -1,9 +1,9 @@
 # BAIKPlayground
 
-Gambar Text Editor
+## Gambar Text Editor
 ![Screenshoot](gambar1.png)
 
-Gambar Browser
+## Gambar Browser
 ![Screenshoot](gambar2.png)
 
 #Tutorial Install
